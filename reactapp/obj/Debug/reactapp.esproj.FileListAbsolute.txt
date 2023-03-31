@@ -1,0 +1,2 @@
+C:\Users\Mario\Projects\Bienes_Raices\reactapp\obj\Debug\reactapp.esproj.SuggestedBindingRedirects.cache
+C:\Users\Mario\Projects\Bienes_Raices\reactapp\obj\Debug\reactapp.esproj.CoreCompileInputs.cache
